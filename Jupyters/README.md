@@ -1,1 +1,1 @@
-## Jupyter Note of C or C++ programs 
+## Jupyter Notebooks of C or C++ programs 
